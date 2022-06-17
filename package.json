@@ -6,12 +6,12 @@
   "author": "Nathan",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chintanshahts/upspect-recoil.git"
-  },
+    "url": "git+https://github.com/DeliverEnd/upspect-recoil.git"    
+  },  
   "bugs": {
-    "url": "https://github.com/chintanshahts/upspect-recoil/issues"
+    "url": "https://github.com/DeliverEnd/upspect-recoil/issues"
   },
-  "homepage": "https://github.com/chintanshahts/upspect-recoil#readme",
+  "homepage": "https://github.com/DeliverEnd/upspect-recoil#readme",
   "main": "dist/index.js",
   "files": [
     "dist"
